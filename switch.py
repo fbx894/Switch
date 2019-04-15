@@ -1,5 +1,6 @@
 """
 Simple Example:
+from switch import *
 def Case1():
   print("Case 1 Selected")
 def Case2():
